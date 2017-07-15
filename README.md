@@ -29,14 +29,14 @@ Resulting image will be stored in the main directory as res.png
 ## Example
 
 ### Input Image
-![input](https://user-images.githubusercontent.com/15849927/28239523-d3873a96-698b-11e7-8d85-f399d51b97d0.jpg)
+![input](https://user-images.githubusercontent.com/15849927/28239569-be235da0-698c-11e7-9177-126dfb29cc42.jpeg)
 
 ### Execution
 ```bash
-./makeTransparent input.jpg 'white'
+./makeTransparent input.jpg 'black'
 ```
 
 ### Output Image
-![res](https://user-images.githubusercontent.com/15849927/28239524-dce04452-698b-11e7-9a0c-86c0f7d06852.png)
+![res](https://user-images.githubusercontent.com/15849927/28239564-b3f4b432-698c-11e7-96a4-6c0bb57274d0.png)
 
 
