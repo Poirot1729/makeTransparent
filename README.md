@@ -37,6 +37,6 @@ Resulting image will be stored in the main directory as res.png
 ```
 
 ### Output Image
-![res](https://user-images.githubusercontent.com/15849927/28239564-b3f4b432-698c-11e7-96a4-6c0bb57274d0.png)
+![res](https://user-images.githubusercontent.com/15849927/28239609-a5fc9c86-698d-11e7-9cb0-9c1c266013d4.png
 
 
